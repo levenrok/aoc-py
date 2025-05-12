@@ -16,7 +16,7 @@ def calculate_paper(dimensions) -> int:
 
 
 def main():
-    input = open('./input.txt')
+    input = open('input.txt')
     dimensions = []
 
 

@@ -1,5 +1,5 @@
 def main():
-    input = open('./input.txt')
+    input = open('input.txt')
     instructions: str = input.read()
     floor: int = 0
 

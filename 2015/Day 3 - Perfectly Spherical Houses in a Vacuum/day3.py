@@ -1,5 +1,5 @@
 def main():
-    input = open('./input.txt')
+    input = open('input.txt')
     instructions = input.read()
 
     santa_x = 0
